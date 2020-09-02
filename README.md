@@ -1,1 +1,1 @@
-# LetsUpgrade-Assignments
+# LetsUpgrade CyberSecurity Essentials Assignments
